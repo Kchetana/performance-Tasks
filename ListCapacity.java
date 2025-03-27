@@ -1,5 +1,4 @@
 import java.util.*;
-
 public class ListCapacity {
     public static void main(String[] args) {
         ArrayList<String> list = new ArrayList<>(10);
