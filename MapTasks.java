@@ -82,7 +82,7 @@ public class MapTasks {
 
         SortedMap<Integer, String> subMap = numberMap.subMap(2, 5);
 
-        System.out.println("\nTask 5: Get SubMap from 2 (inclusive) to 5 (exclusive)");
+        System.out.println("Task 5: Get SubMap from 2 (inclusive) to 5 (exclusive)");
         System.out.println(subMap);
     }
 }
